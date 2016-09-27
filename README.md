@@ -1,2 +1,2 @@
-# Maja-Projects
+# Java Projects
 Java codes practise.
